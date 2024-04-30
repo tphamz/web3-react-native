@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "63274ea1d63bc3078f43e449",
+    "createdBy": "6326194d737a227c2704d709",
+    "adminId": "6326194d737a227c2704d709",
+    "name": "my-tribe",
+    "description": "tribe with image",
+    "createdDate": "2022-09-18T17:00:17.138Z",
+    "updatedDate": "2022-09-18T17:00:17.404Z",
+    "image": "https://z1-assets.s3.amazonaws.com/tribes/63274ea1d63bc3078f43e449.png",
+    "tribeToken": "0xa18ba4D0c4A315193Ce552AEEF7B4a7eA03Bd85f",
+    "tribeTokenDescription": "ewq lknlq knelkqwneklwqe"
+  },
+  {
+    "_id": "6327525e4319ece89fcc784c",
+    "createdBy": "6326194d737a227c2704d709",
+    "adminId": "6326194d737a227c2704d709",
+    "name": "dasds",
+    "description": "dasd da das",
+    "createdDate": "2022-09-18T17:16:14.340Z",
+    "updatedDate": "2022-09-18T17:16:14.557Z",
+    "image": "https://z1-assets.s3.amazonaws.com/tribes/6327525e4319ece89fcc784c.png",
+    "tribeToken": "0xa18ba4D0c4A315193Ce552AEEF7B4a7eA03Bd85f",
+    "tribeTokenDescription": "ewq lknlq knelkqwneklwqe"
+  },
+  {
+    "_id": "63275501e3660442c8174ad8",
+    "createdBy": "6326194d737a227c2704d709",
+    "adminId": "6326194d737a227c2704d709",
+    "name": "My long text tribe",
+    "description": "My long text tribe",
+    "createdDate": "2022-09-18T17:27:29.227Z",
+    "updatedDate": "2022-09-18T17:27:29.466Z",
+    "image": "https://z1-assets.s3.amazonaws.com/tribes/63275501e3660442c8174ad8.png",
+    "tribeToken": "0xa18ba4D0c4A315193Ce552AEEF7B4a7eA03Bd85f",
+    "tribeTokenDescription": "ewq lknlq knelkqwneklwqe"
+  },
+  {
+    "_id": "63275a407580b7320652fa47",
+    "createdBy": "6326194d737a227c2704d709",
+    "adminId": "6326194d737a227c2704d709",
+    "name": "BOOK CLUB TRIBE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut lacinia sem. Nullam finibus libero ut sapien finibus facilisis. Pellentesque faucibus fringilla risus, faucibus luctus erat consequat non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed magna augue, tincidunt ut auctor vel, finibus sit amet nisl. Cras accumsan ex efficitur ipsum rhoncus, eget semper dolor dignissim. Phasellus id dui risus.\n",
+    "createdDate": "2022-09-18T17:49:52.199Z",
+    "updatedDate": "2022-09-19T01:51:49.906Z",
+    "image": "https://z1-assets.s3.amazonaws.com/tribes/63275a407580b7320652fa47.png",
+    "tribeToken": "0xa18ba4D0c4A315193Ce552AEEF7B4a7eA03Bd85f",
+    "tribeTokenDescription": "ewq lknlq knelkqwneklwqe"
+  },
+  {
+    "_id": "63275a447580b7320652fa48",
+    "createdBy": "6326194d737a227c2704d709",
+    "adminId": "6326194d737a227c2704d709",
+    "name": "BOOK CLUB TRIBE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut lacinia sem. Nullam finibus libero ut sapien finibus facilisis. Pellentesque faucibus fringilla risus, faucibus luctus erat consequat non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed magna augue, tincidunt ut auctor vel, finibus sit amet nisl. Cras accumsan ex efficitur ipsum rhoncus, eget semper dolor dignissim. Phasellus id dui risus.\n",
+    "createdDate": "2022-09-18T17:49:56.240Z",
+    "updatedDate": "2022-09-18T17:49:56.404Z",
+    "image": "https://z1-assets.s3.amazonaws.com/tribes/63275a447580b7320652fa48.png",
+    "tribeToken": "0xa18ba4D0c4A315193Ce552AEEF7B4a7eA03Bd85f",
+    "tribeTokenDescription": "ewq lknlq knelkqwneklwqe"
+  },
+  {
+    "_id": "63275a477580b7320652fa49",
+    "createdBy": "6326194d737a227c2704d709",
+    "adminId": "6326194d737a227c2704d709",
+    "name": "BOOK CLUB TRIBE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut lacinia sem. Nullam finibus libero ut sapien finibus facilisis. Pellentesque faucibus fringilla risus, faucibus luctus erat consequat non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed magna augue, tincidunt ut auctor vel, finibus sit amet nisl. Cras accumsan ex efficitur ipsum rhoncus, eget semper dolor dignissim. Phasellus id dui risus.\n",
+    "createdDate": "2022-09-18T17:49:59.830Z",
+    "updatedDate": "2022-09-18T17:49:59.975Z",
+    "image": "https://z1-assets.s3.amazonaws.com/tribes/63275a477580b7320652fa49.png",
+    "tribeToken": "0xa18ba4D0c4A315193Ce552AEEF7B4a7eA03Bd85f",
+    "tribeTokenDescription": "ewq lknlq knelkqwneklwqe"
+  },
+  {
+    "_id": "632872e6def83160781534b3",
+    "createdBy": "6326194d737a227c2704d709",
+    "adminId": "6326194d737a227c2704d709",
+    "name": "new tribe",
+    "description": "lsdaldda",
+    "createdDate": "2022-09-19T13:47:18.597Z",
+    "updatedDate": "2022-09-19T13:47:18.861Z",
+    "image": "https://z1-assets.s3.amazonaws.com/tribes/632872e6def83160781534b3.png"
+  },
+  {
+    "_id": "632872f1def83160781534b4",
+    "createdBy": "6326194d737a227c2704d709",
+    "adminId": "6326194d737a227c2704d709",
+    "name": "new tribe",
+    "description": "lsdaldda",
+    "createdDate": "2022-09-19T13:47:29.086Z",
+    "updatedDate": "2022-09-19T13:47:29.279Z",
+    "image": "https://z1-assets.s3.amazonaws.com/tribes/632872f1def83160781534b4.png"
+  },
+  {
+    "_id": "63313fc487a0aa357e7287ed",
+    "createdBy": "6326194d737a227c2704d709",
+    "adminId": "6326194d737a227c2704d709",
+    "name": "new tribe",
+    "description": "ddsf",
+    "createdDate": "2022-09-26T05:59:32.123Z",
+    "updatedDate": "2022-09-26T05:59:32.378Z",
+    "image": "https://z1-assets.s3.amazonaws.com/tribes/63313fc487a0aa357e7287ed.png"
+  },
+  {
+    "_id": "6336f444a3deac728236081d",
+    "createdBy": "6326194d737a227c2704d709",
+    "adminId": "6326194d737a227c2704d709",
+    "name": "My new tribe",
+    "description": "my new description",
+    "createdDate": "2022-09-30T13:51:00.938Z",
+    "updatedDate": "2022-09-30T13:51:01.191Z",
+    "image": "https://z1-assets.s3.amazonaws.com/tribes/6336f444a3deac728236081d.png"
+  }
+]

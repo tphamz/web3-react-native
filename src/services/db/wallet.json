@@ -1,0 +1,8 @@
+{
+	"name": "Wallet",
+	"properties":{
+		"privateKey":"string",
+		"mnemonic": "string",
+		"address": "string"
+	}
+}
